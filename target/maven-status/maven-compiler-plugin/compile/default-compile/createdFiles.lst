@@ -1,0 +1,16 @@
+com\microsoft\mchanneltool\utils\TokenUtil.class
+com\microsoft\mchanneltool\error\MsgException.class
+com\microsoft\mchanneltool\utils\RSAUtils.class
+com\microsoft\mchanneltool\pojo\ChannelBindResult.class
+com\microsoft\mchanneltool\pojo\WebSocketVerify.class
+com\microsoft\mchanneltool\utils\RobotUtil.class
+com\microsoft\mchanneltool\SiriusApp.class
+com\microsoft\mchanneltool\pojo\local\UserToken.class
+com\microsoft\mchanneltool\pojo\local\AwaitToken.class
+com\microsoft\mchanneltool\pojo\McReload.class
+com\microsoft\mchanneltool\pojo\ChannelBind.class
+com\microsoft\mchanneltool\pojo\WebSocketBody.class
+com\microsoft\mchanneltool\pojo\ChangeTheBind.class
+com\microsoft\mchanneltool\pojo\LinkMessage.class
+com\microsoft\mchanneltool\factory\UserTokenFactory.class
+com\microsoft\mchanneltool\config\Constant.class
